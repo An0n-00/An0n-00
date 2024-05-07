@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=an0n-00&style=for-the-badge&label=Visitor&base=89" />
   <br>
-  <a href="mailto:an0n-00.fx4o7@passmail.net"><img src="https://img.shields.io/badge/proton-d5d5d5?style=for-the-badge&logo=proton&logoColor=0A0209" alt="an0n-00.fx407@passmail.net" /></a>
+  <a href="mailto:an0n-00.fx4o7@passmail.net"><img src="https://img.shields.io/badge/proton-d5d5d5?style=for-the-badge&logo=proton&logoColor=7438f8" alt="an0n-00.fx407@passmail.net" /></a>
 </div>
 
 <picture>
@@ -16,7 +16,7 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## I'm a Newbie Developer 🚀
+# I'm a Newbie Developer 🚀
 
 - 🤸 Code is like humor. When you have to explain it, it’s bad.
 
@@ -41,7 +41,7 @@
       <a href="https://www.w3.org/TR/CSS/#css">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
       </a>
-      <a href="https://isocpp.org/">
+      <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
         <img src="https://img.shields.io/badge/C%23-00599C?style=for-the-badge&logo=c%23&logoColor=white"/>
       </a>
       <a href="https://www.gnu.org/software/bash/">
@@ -92,8 +92,6 @@
       <a href="https://www.jetbrains.com/idea/">
         <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white" />
       </a>
-      <a href="https://www.vscode.dev/">
-        <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
     </td>
   </tr>
 
@@ -129,7 +127,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of todo list" width="40" />
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of Project" width="40" />
 | Projects |               Deployed Link                | Repository | Tech Stack & Tools                                                        |
 | :------- | :----------------------------------------: | :--------: | :------------------------------------------------------------------------ |
 | FileSync  | [FileSync](https://github.com/An0n-00/FileSync/releases/tag/Release) |  [GitHub](https://github.com/An0n-00/FileSync)   | `PowerShell` `Intellij Idea Ultimate` `Visual Studio Code` |
