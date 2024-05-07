@@ -3,7 +3,7 @@
 <h1 align="center">Hi There, I'm An0n-00 👋</h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=an0n-00&style=for-the-badge&label=Visitor&base=89" />
+  <img src="https://komarev.com/ghpvc/?username=an0n-00&style=for-the-badge&label=Visitor" />
   <br>
   <a href="mailto:an0n-00.fx4o7@passmail.net"><img src="https://img.shields.io/badge/proton-d5d5d5?style=for-the-badge&logo=proton&logoColor=7438f8" alt="an0n-00.fx407@passmail.net" /></a>
 </div>
