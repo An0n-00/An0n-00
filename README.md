@@ -136,14 +136,14 @@
 
 <div align=center>
 <a href="https://github.com/an0n-00/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an0n-00&layout=donut" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an0n-00&layout=donut&theme=transparent" />
 </a>
 <br>
 <a href="https://github.com/an0n-00/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=an0n-00&rank_icon=github&show_icons=true&hide=contribs&theme=transparent&show=reviews&border_radius=8" />
 </a>
 <a href="https://github.com/an0n-00">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an0n-00&theme=tokyonight&theme=cobalt&border_radius=8" />
+  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an0n-00&theme=cobalt&border_radius=8" />
 </a>
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
