@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=an0n-00&style=for-the-badge&label=Visitor" />
   <br>
-  <a href="mailto:an0n-00.fx4o7@passmail.net"><img src="https://img.shields.io/badge/proton-d5d5d5?style=for-the-badge&logo=proton&logoColor=7438f8" alt="an0n-00.fx407@passmail.net" /></a>
+  <a href="mailto:an0n-00.fx4o7@passmail.net"><img src="https://img.shields.io/badge/proton-d5d5d5?style=for-the-badge&logo=protonmail&logoColor=7438f8" alt="an0n-00.fx407@passmail.net" /></a>
 </div>
 
 <picture>
@@ -22,7 +22,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40">
+# Skills <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="24">
 
 <table width="300">
   <tr>
@@ -77,6 +77,21 @@
       <a href="https://www.apachefriends.org/">
         <img src="https://img.shields.io/badge/xampp-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
       </a>
+      <a href="https://www.office.com">
+        <img src="https://img.shields.io/badge/Office%20365-857ee0?style=for-the-badge&logo=microsoft"/>
+      </a>
+      <a href="https://www.wireshark.org">
+        <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
+      </a>
+      <a href="https://www.brave.com">
+        <img src="https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=brave&logoColor=white"/>
+      </a>
+      <a href="https://www.adobe.com/">
+        <img src="https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white"/>
+      </a>
+      <a href="https://www.proton.ch">
+        <img src="https://img.shields.io/badge/Proton-7438f8?style=for-the-badge&logo=proton&logoColor=white"/>
+      </a>
     </td>
   </tr>
 
@@ -89,12 +104,25 @@
       <a href="https://www.vim.org/">
         <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
       </a>
-      <a href="https://www.jetbrains.com/idea/">
-        <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=for-the-badge&logo=intellij%20idea&logoColor=white" />
+      <a href="https://notepad-plus-plus.org/">
+        <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
       </a>
+      <a href="https://www.jetbrains.com/idea/">
+        <img src="https://img.shields.io/badge/IntelliJ IDEA-e22c63?style=for-the-badge&logo=intellij%20idea&logoColor=white" />
+      </a>
+      <a href="https://www.jetbrains.com/webstorm/">
+        <img src="https://img.shields.io/badge/WebStorm-eaeb00?style=for-the-badge&logo=webstorm&logoColor=black" />
+      </a>
+      <a href="https://www.jetbrains.com/pycharm/">
+        <img src="https://img.shields.io/badge/PyCharm-d8ee52?style=for-the-badge&logo=pycharm&logoColor=black" />
+        </a>
+      <a href="https://www.jetbrains.com/datagrip/">
+      <img src="https://img.shields.io/badge/datagrip-16a53e?style=for-the-badge&logo=datagrip&logoColor=white" />
+    </a>
+    <a href="https://www.adobe.com/products/dreamweaver.html">
+      <img src="https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6?style=for-the-badge&logo=adobe%20dreamweaver&logoColor=white" />
     </td>
   </tr>
-
   <tr>
     <td>Cloud Provider</td>
     <td>
@@ -103,7 +131,6 @@
       </a>
     </td>
   </tr>
-
   <tr>
     <td>Operating System</td>
     <td>
@@ -127,7 +154,7 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of Project" width="40" />
+# Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of Project" width="28" />
 | Projects |               Deployed Link                | Repository | Tech Stack & Tools                                                        |
 | :------- | :----------------------------------------: | :--------: | :------------------------------------------------------------------------ |
 | FileSync  | [FileSync](https://github.com/An0n-00/FileSync/releases/tag/Release) |  [GitHub](https://github.com/An0n-00/FileSync)   | `PowerShell` `Intellij Idea Ultimate` `Visual Studio Code` |
