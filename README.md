@@ -5,7 +5,6 @@
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=an0n-00&style=for-the-badge&label=Visitor" />
   <br>
-  <a href="mailto:an0n-00.fx4o7@passmail.net"><img src="https://img.shields.io/badge/proton-d5d5d5?style=for-the-badge&logo=protonmail&logoColor=7438f8" alt="an0n-00.fx407@passmail.net" /></a>
 </div>
 
 <picture>
@@ -16,7 +15,7 @@
 </div>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-# I'm a Newbie Developer 🚀
+# I'm a Developer 🚀
 
 - 🤸 Code is like humor. When you have to explain it, it’s bad.
 
@@ -37,6 +36,9 @@
       </a>
       <a href="https://html.spec.whatwg.org/">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+      </a>
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
       </a>
       <a href="https://www.w3.org/TR/CSS/#css">
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -155,9 +157,12 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of Project" width="28" />
-| Projects |               Deployed Link                | Repository | Tech Stack & Tools                                                        |
-| :------- | :----------------------------------------: | :--------: | :------------------------------------------------------------------------ |
-| FileSync  | [FileSync](https://github.com/An0n-00/FileSync/releases/tag/Release) |  [GitHub](https://github.com/An0n-00/FileSync)   | `PowerShell` `Intellij Idea Ultimate` `Visual Studio Code` |
+
+
+| Projects  |                             Deployed Link                   |                   Repository                     | Tech Stack & Tools                                                                                         |
+| :-------- | :--------------------------------------------------------:  | :----------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+| SpotifyAB | [SpotifyAB](https://github.com/An0n-00/SpotifyAB/releases/) | [GitHub](https://github.com/An0n-00/SpotifyAB)   | `C#` `WinForms` `PowerShell` `JavaScript` `HTML` `Visual Studio Code` `Visual Studio` `Advanced Installer` |
+| Spotify-ad-hosts | [Spotify-ad-hosts](https://github.com/An0n-00/Spotify-ad-hosts/blob/main/hosts) | [GitHub](https://github.com/An0n-00/Spotify-ad-hosts) | `WireShark` `PowerShell` `VSC`                                             |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -169,7 +174,7 @@
 <a href="https://github.com/an0n-00/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=an0n-00&rank_icon=github&show_icons=true&hide=contribs&theme=transparent&show=reviews&border_radius=8" />
 </a>
-<a href="https://github.com/an0n-00">
+<a href="https://github.com/an0n-00/">
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an0n-00&theme=cobalt&border_radius=8" />
 </a>
 </div>
