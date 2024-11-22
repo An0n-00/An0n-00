@@ -161,8 +161,10 @@
 
 | Projects  |                             Deployed Link                   |                   Repository                     | Tech Stack & Tools                                                                                         |
 | :-------- | :--------------------------------------------------------:  | :----------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+| B-Backup  | [B-Backup](https://github.com/An0n-00/B-Backup?tab=readme-ov-file) | [GitHub](https://github.com/An0n-00/B-Backup?tab=readme-ov-file) | `Bash` `IntelliJ Idea` `Jetbrains Gateway` `Kali` `Ubuntu` `VSC`                    |
+| FileSync  | [FileSync](https://github.com/An0n-00/FileSync?tab=readme-ov-file) | [GitHub](https://github.com/An0n-00/FileSync?tab=readme-ov-file) | `PowerShell` `Visual Studio Code` `Windows RoboCopy.exe`                            |
 | SpotifyAB | [SpotifyAB](https://github.com/An0n-00/SpotifyAB/releases/) | [GitHub](https://github.com/An0n-00/SpotifyAB)   | `C#` `WinForms` `PowerShell` `JavaScript` `HTML` `Visual Studio Code` `Visual Studio` `Advanced Installer` |
-| Spotify-ad-hosts | [Spotify-ad-hosts](https://github.com/An0n-00/Spotify-ad-hosts/blob/main/hosts) | [GitHub](https://github.com/An0n-00/Spotify-ad-hosts) | `WireShark` `PowerShell` `VSC`                                             |
+| Spotify-ad-hosts | [Spotify-ad-hosts](https://github.com/An0n-00/Spotify-ad-hosts/blob/main/hosts) | [GitHub](https://github.com/An0n-00/Spotify-ad-hosts) | `WireShark` `PowerShell` `Visual Studio Code`                              |
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
