@@ -1,9 +1,12 @@
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0242.gif" height="12" width="1920" />
 <div align=center>
 <h1 align="center">Hi There, I'm An0n-00 👋</h1>
+<h6>Or <a href="https://github.com/an0n-01">An0n-01</a> if GitHub suspends my main account.</h6>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=an0n-00&style=for-the-badge&label=Visitor" />
+  <img src="https://komarev.com/ghpvc/?username=an0n-00&style=for-the-badge&label=An0n-00 README Visits&abbreviated=true" />
+  <br>
+  <img src="https://komarev.com/ghpvc/?username=an0n-01&style=for-the-badge&label=An0n-01 README Visits&abbreviated=true" />
   <br>
 </div>
 
@@ -16,9 +19,7 @@
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0242.gif" height="12" width="1920" />
 <div align="center">
   
-# I'm a Developer 🚀
-
-**Code is like humor. When you have to explain it, it’s bad.**
+# I'm a Open Source Developer
 
 </div>
 
@@ -112,7 +113,7 @@
       <a href="https://www.adobe.com/">
         <img src="https://img.shields.io/badge/Adobe-000?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIyNTYiIGhlaWdodD0iMjU2Ij48cGF0aCBmaWxsPSIjRkEwRjAwIiBkPSJNNDUuMjU3IDBoMTY1LjQ4NUMyMzUuODg2IDAgMjU2IDIwLjExNCAyNTYgNDUuMjU3djE2NS40ODZDMjU2IDIzNS44ODYgMjM1Ljg4NiAyNTYgMjEwLjc0MiAyNTZINDUuMjU3QzIwLjExNCAyNTYgMCAyMzUuODg2IDAgMjEwLjc0M1Y0NS4yNTdDMCAyMC4xMTQgMjAuMTE0IDAgNDUuMjU3IDB6Ii8+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTIwNC4xNDQgMTQ3LjY1N2MtMTEuODg3LTEyLjM0My00NC4zNDQtNy4zMTQtNTIuMTE1LTYuNC0xMS40MjgtMTAuOTcyLTE5LjE5OS0yNC4yMjktMjEuOTQyLTI4LjggNC4xMTQtMTIuMzQzIDYuODU2LTI0LjY4NiA3LjMxNC0zNy45NDIgMC0xMS40MjktNC41NzEtMjMuNzcxLTE3LjM3Mi0yMy43NzEtNC41NzEgMC04LjY4NiAyLjc0Mi0xMC45NzIgNi4zOTktNS40ODUgOS42MDEtMy4yIDI4LjgwMSA1LjQ4NiA0OC40NTgtNS4wMjggMTQuMTcxLTkuNiAyNy44ODUtMjIuNCA1Mi4xMTQtMTMuMjU3IDUuNDg0LTQxLjE0MyAxOC4yODUtNDMuNDI5IDMyLS45MTQgNC4xMTMuNDU3IDguMjI5IDMuNjU3IDExLjQyOCAzLjIgMi43NDMgNy4zMTQgNC4xMTQgMTEuNDI5IDQuMTE0IDE2LjkxNCAwIDMzLjM3MS0yMy4zMTMgNDQuOC00Mi45NzIgOS42LTMuMTk5IDI0LjY4Ni03Ljc3MSAzOS43NzItMTAuNTE0IDE3LjgyOCAxNS41NDMgMzMuMzcxIDE3LjgyOCA0MS42IDE3LjgyOCAxMC45NzEgMCAxNS4wODYtNC41NzEgMTYuNDU3LTguNjg2IDIuMjg1LTQuNTcuOTE0LTkuNTk5LTIuMjg1LTEzLjI1NnptLTExLjQzIDcuNzcyYy0uNDU3IDMuMi00LjU3IDYuMzk5LTExLjg4NSA0LjU3MS04LjY4Ni0yLjI4NS0xNi40NTctNi40LTIzLjMxNC0xMS44ODYgNS45NDMtLjkxNSAxOS4xOTktMi4yODYgMjguOC0uNDU3IDMuNjU3LjkxNCA3LjMxNCAzLjIgNi4zOTkgNy43NzJ6bS03Ni4zNDItOTQuMTcyYy45MTQtMS4zNzEgMi4yODYtMi4yODUgMy42NTctMi4yODUgNC4xMTQgMCA1LjAyOCA1LjAyOCA1LjAyOCA5LjE0My0uNDU3IDkuNjAxLTIuMjg2IDE5LjItNS40ODUgMjguMzQzLTYuODU4LTE4LjI4Ni01LjQ4Ni0zMS4wODctMy4yLTM1LjIwMXptLS45MTQgODguNjg2YzMuNjU3LTcuMzE0IDguNjg2LTIwLjExNSAxMC41MTQtMjUuNjAxIDQuMTE0IDYuODU2IDEwLjk3MSAxNS4wODYgMTQuNjI5IDE4Ljc0MyAwIC40NTgtMTQuMTcyIDMuMi0yNS4xNDMgNi44NTh6bS0yNi45NzIgMTguMjg2Qzc3Ljk3MiAxODUuNiA2NyAxOTYuNTcxIDYxLjA1NyAxOTYuNTcxYy0uOTE0IDAtMS44MjktLjQ1Ny0yLjc0My0uOTE0LTEuMzcyLS45MTUtMS44MjktMi4yODYtMS4zNzItNC4xMTQgMS4zNzItNi40IDEzLjI1OC0xNS4wODYgMzEuNTQ0LTIzLjMxNHoiLz48L3N2Zz4=&logoColor=white"/>
       </a>
-      <a href="https://www.proton.ch">
+      <a href="https://www.pm.me">
         <img src="https://img.shields.io/badge/Proton-7438f8?style=for-the-badge&logo=proton&logoColor=white"/>
       </a>
     <br/>
@@ -129,21 +130,15 @@ In addition to what was mentioned above, I can use the following frameworks/libr
   <a href="https://tailwindcss.com/" target="_blank">Tailwind</a>
   <a href="https://learn.microsoft.com/en-us/aspnet/core/security/authentication" target="_blank">AspNetCore.Authentication</a>
   <a href="https://en.wikipedia.org/wiki/Computer_network" target="_blank">Networking</a>
-    and I do understand 
-    <a href="https://en.wikipedia.org/wiki/Computer_security" target="_blank">security concepts</a> 
-    to a certain extent 
-    (<a href="https://www.jwt.io/" target="_blank">JWT tokens</a>, 
-    <a href="https://en.wikipedia.org/wiki/Hash_function" target="_blank">hashing</a>, 
-    <a href="https://en.wikipedia.org/wiki/Firewall_(computing)" target="_blank">firewalls</a> and all that stuff)
+    and I am rather advanced with
+    <a href="https://en.wikipedia.org/wiki/Computer_security" target="_blank">security concepts.</a>
+
   </tr>
   <tr>
     <td>IDE & Environment</td>
     <td>
       <a href="https://code.visualstudio.com/">
         <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiB2ZXJzaW9uPSIxLjEiIGlkPSJMYXllcl8xIiB4PSIwcHgiIHk9IjBweCIgdmlld0JveD0iMCAwIDUxMiA1MTIiIGZpbGw9IiNmZmYiIHhtbDpzcGFjZT0icHJlc2VydmUiPgo8Zz4KCTxwYXRoIGQ9Ik00OTMuOCw1NS4yTDM4OC41LDQuNWMtMTIuMy01LjktMjYuOC0zLjQtMzYuNCw2LjJMMTUwLjMsMTk0LjhsLTg3LjktNjYuN2MtOC4yLTYuMy0xOS43LTUuNy0yNy4yLDEuMkw3LDE1NC45ICAgYy05LjMsOC40LTkuMywyMy4xLTAuMSwzMS41TDgzLjIsMjU2TDYuOSwzMjUuNmMtOS4yLDguNC05LjIsMjMuMSwwLjEsMzEuNWwyOC4yLDI1LjdjNy43LDYuOSwxOS4xLDcuNCwyNy4yLDEuMmw4Ny45LTY2LjcgICBsMjAxLjgsMTg0LjFjOS41LDkuNiwyNC4xLDEyLjEsMzYuMyw2LjJsMTA1LjQtNTAuN2MxMS4xLTUuMywxOC4xLTE2LjUsMTguMS0yOC44Vjg0QzUxMiw3MS43LDUwNC45LDYwLjUsNDkzLjgsNTUuMkw0OTMuOCw1NS4yeiAgICBNMzg0LjEsMzcyLjNMMjMwLjksMjU2bDE1My4yLTExNi4zVjM3Mi4zeiIvPgo8L2c+Cjwvc3ZnPg==&logoColor=white" />
-      </a>
-      <a href="https://www.vim.org/">
-        <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" />
       </a>
       <a href="https://notepad-plus-plus.org/">
         <img src="https://img.shields.io/badge/Notepad++-90E59A?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" />
@@ -198,31 +193,78 @@ In addition to what was mentioned above, I can use the following frameworks/libr
   </tr>
 </table>
 
+<div align=center>
+<i>This list is not fully exhaustive.</i>
+</div>
+
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0242.gif" height="12" width="1920" />
 
 # Projects <img src="https://user-images.githubusercontent.com/74038190/221857969-f37e1717-1470-4fe4-abb5-88b334cf64ea.png" alt="icon of Project" width="28" />
 
-Note: Here are my personal projects. My other projects are stored in a different GitHub Organization to which you should have a direct link to. 
 
-| Projects  |                             Deployed Link                   |                   Repository                     | Tech Stack & Tools                                                                                         |
-| :-------- | :--------------------------------------------------------:  | :----------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
-| IT-Ticket  | `not deployed` | [GitHub](https://github.com/An0n-00/IT-Ticket?tab=readme-ov-file) | `Docker` `MSSQL` `ASP.NET Core 8.0` `Entity Framework Core 9.0` `JetBrains Rider` `AspNetCore.Authentication` `Vite` `Typescript` `Tailwind` `Shadcn` `Docker`                   |
-| SpotifyAB | [SpotifyAB](https://github.com/An0n-00/SpotifyAB/releases/) | [GitHub](https://github.com/An0n-00/SpotifyAB)   | `C#` `WinForms` `PowerShell` `JavaScript` `HTML` `Visual Studio Code` `Visual Studio` `Advanced Installer` |
-| Spotify-ad-hosts | [Spotify-ad-hosts](https://github.com/An0n-00/Spotify-ad-hosts/blob/main/hosts) | [GitHub](https://github.com/An0n-00/Spotify-ad-hosts) | `WireShark` `PowerShell` `Visual Studio Code`                              |
-| CMV2-Enabler |    `iex "& { $(iwr -useb 'https://raw.githubusercontent.com/An0n-00/CMV2-Enabler/refs/heads/main/CMV2-Enabler.ps1') }"` | [GitHub](https://github.com/An0n-00/CMV2-Enabler)   | `powershell` |
+| Projects                           |                                                                                 Deployed Link                                                                                 |                    Repository                     |                 Tech Stack & Tools                  |
+| :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------: | :-------------------------------------------------: |
+| Open Media Streaming Specification |                                                             [Read the Specification](https://omss.mintlify.site)                                                              | [GitHub](https://github.com/omss-spec/omss-spec)  |                 `Markdown`, `YAML`                  |
+| OMSS Core (framework)              | `npm i @OMSS/core` <br> [npmjs.com](https://www.npmjs.com/package/@omss/core) / [npmx.dev](https://npmx.dev/@omss/core) <br> [Documentation](https://omss.mintlify.site/core) | [GitHub](https://github.com/omss-spec/omss-core)  |                    `TypeScript`                     |
+| CinePro Core                       |                                                                   [Documentation](https://docs.cinepro.cc)                                                                    |   [GitHub](https://github.com/cinepro-org/core)   | `TypeScript`, `Fastify`, `Redis`, `CI/CD`, `Docker` |
+| CinePro/UI                         |                                                                      [Live here](https://ui.cinepro.cc)                                                                       |    [GitHub](https://github.com/cinepro-org/ui)    | `TypeScript`, `Fastify`, `React`, `CI/CD`, `Shadcn` |
+
+<div align=center>
+<i>This table is not fully exhaustive.</i>
+</div>
 
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0242.gif" height="12" width="1920" />
 
 <div align=center>
-<a href="https://github.com/an0n-00/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=an0n-00&layout=donut&theme=transparent" />
-</a>
-<br>
-<a href="https://github.com/an0n-00/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=an0n-00&rank_icon=github&show_icons=true&hide=contribs&theme=transparent&show=reviews&border_radius=8" />
-</a>
-<a href="https://github.com/an0n-00/">
-  <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=an0n-00&theme=cobalt&border_radius=8" />
-</a>
+
+<table>
+  <tr>
+    <th>An0n-00</th>
+    <th>An0n-01</th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/an0n-00">
+        <img
+          height="200"
+          src="https://github-stats-extended.vercel.app/api?username=an0n-00&rank_icon=github&show_icons=true&hide=contribs&theme=transparent&show=reviews&border_radius=8"
+          alt="an0n-00 Stats"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/An0n-01">
+        <img
+          height="200"
+          src="https://github-stats-extended.vercel.app/api?username=An0n-01&rank_icon=github&show_icons=true&hide=contribs&theme=transparent&show=reviews&border_radius=8"
+          alt="An0n-01 Stats"
+        />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <a href="https://github.com/an0n-00">
+        <img
+          height="200"
+          src="https://streak-stats.demolab.com/?user=an0n-00&theme=cobalt&border_radius=8"
+          alt="an0n-00 Streak"
+        />
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/An0n-01">
+        <img
+          height="200"
+          src="https://streak-stats.demolab.com/?user=An0n-01&theme=cobalt&border_radius=8"
+          alt="An0n-01 Streak"
+        />
+      </a>
+    </td>
+  </tr>
+</table>
+
 </div>
 <img src="https://www.animatedimages.org/data/media/134/animated-dividing-line-image-0242.gif" height="12" width="1920" />
